@@ -1,5 +1,4 @@
 # Ruslan Gergankin
-# Ruslan Gergankin
 
 Tere! Õpin TTHK-s kursusel "IT Korralduse alused".
 
